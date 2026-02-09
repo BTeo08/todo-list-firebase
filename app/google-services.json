@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "450227642798",
+    "project_id": "lista-de-tarefas-cc20f",
+    "storage_bucket": "lista-de-tarefas-cc20f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450227642798:android:399033c93cfa7985ece83f",
+        "android_client_info": {
+          "package_name": "com.example.todolist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCP7CHd-Yt5nkATiDdkLUwmGqPuV2fnd3s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
